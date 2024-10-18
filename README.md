@@ -10,7 +10,6 @@
 - [Usage](#usage)
 - [Compilation and Execution](#compilation-and-execution)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
